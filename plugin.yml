@@ -1,0 +1,5 @@
+name: Auto_restart
+version: 1.0
+author: Hypex
+main: Auto_restart.Main
+api-version: 1.13
